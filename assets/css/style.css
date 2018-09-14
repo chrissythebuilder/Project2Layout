@@ -25,3 +25,18 @@ body {
     margin-right: 50px;
     position: absolute;
 }
+
+/* Buyers Page */
+
+#header {
+    float: right;
+}
+
+#search-input {
+    width: 80%;
+}
+
+#search {
+    margin-bottom: 50px;
+    text-align: center;
+}
